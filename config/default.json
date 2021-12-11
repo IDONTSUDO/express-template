@@ -1,0 +1,13 @@
+{
+  "appName": "Express Assembly",
+
+  "port": 3000,
+
+  "dbHost": "localhost",
+  "dbPort" : 5432,
+  "dbUser": "postgres",
+
+  "app": {
+    "useRoutingControllers": true
+  }
+}

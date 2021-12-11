@@ -1,0 +1,9 @@
+{
+  "appName": "express-template",
+
+  "dbHost": "localhost",
+  "dbPort" : 5432,
+  "dbUser": "postgres",
+  "dbPassword": "secret",
+  "dbName": ""
+}
